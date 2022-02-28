@@ -1,0 +1,42 @@
+body{
+    font-family: 'Gideon Roman', cursive;
+}
+
+.heading{
+    width: 100%;
+    line-height: 10;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.manuel{
+    float: right;
+    border: 1px solid white;
+}
+
+.start, .restart{
+    margin-top: 50px;
+    font-size: 22px;
+    width: 10%;
+}
+
+a{
+    color: black;
+}
+
+.footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.modal-dialog{
+    width: 90%
+}
+
+canvas{
+    border: solid 1px black;
+    box-shadow: 1px 1px 10px fuchsia;
+}
